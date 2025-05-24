@@ -43,7 +43,7 @@ const DONATION_METHODS = [
   { method: "username" as const, icon: AtSignIcon, label: "اسم المستخدم" },
 ];
 
-export default function DonationNotification({
+export default function Dcomponents({
   className,
   currentUser,
 }: {
